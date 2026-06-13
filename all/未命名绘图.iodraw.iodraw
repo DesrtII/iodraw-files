@@ -26,7 +26,7 @@
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-26" value="输入为空/错误" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHDZixYISfMMD8_84CET-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="-20" as="offset" />
+            <mxPoint x="-1" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-9" target="nHDZixYISfMMD8_84CET-14">
