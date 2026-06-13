@@ -128,16 +128,16 @@
           <mxGeometry x="130" y="1140" width="193" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-40" value="UUID 生成随机文件名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="323" y="1210" width="212" height="49" as="geometry" />
+          <mxGeometry x="323" y="1200" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-41" value="保存文件到 uploads 目录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="1330" width="239" height="49" as="geometry" />
+          <mxGeometry x="309.5" y="1270" width="239" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-42" value="创建 Resource 数据库记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310.5" y="1630" width="248" height="49" as="geometry" />
+          <mxGeometry x="305" y="1340" width="248" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-43" value="上传成功" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="773" y="2117" width="88" height="34" as="geometry" />
+          <mxGeometry x="385" y="1410" width="88" height="34" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-31" target="nHDZixYISfMMD8_84CET-32">
           <mxGeometry relative="1" as="geometry">
