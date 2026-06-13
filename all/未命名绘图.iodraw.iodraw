@@ -203,7 +203,7 @@
         <mxCell id="nHDZixYISfMMD8_84CET-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-71" target="nHDZixYISfMMD8_84CET-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-98" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHDZixYISfMMD8_84CET-90">
+        <mxCell id="nHDZixYISfMMD8_84CET-98" value="资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHDZixYISfMMD8_84CET-90">
           <mxGeometry x="-0.0039" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
