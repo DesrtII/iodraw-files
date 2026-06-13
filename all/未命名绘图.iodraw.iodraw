@@ -291,8 +291,14 @@
         <mxCell id="nHDZixYISfMMD8_84CET-101" value="点击下载按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="247.61" y="760" width="115.26" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-179" target="nHDZixYISfMMD8_84CET-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-179" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="539" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-182" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="539" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
