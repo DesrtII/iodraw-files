@@ -101,7 +101,7 @@
           <mxGeometry x="240" y="830" width="113" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-34" value="填写标题 / 描述 / 分类 / 标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310.5" y="900" width="239" height="66" as="geometry" />
+          <mxGeometry x="380" y="900" width="169.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-35" value="选择文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365.5" y="990" width="127" height="49" as="geometry" />
