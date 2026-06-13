@@ -553,7 +553,7 @@
         <mxCell id="nHDZixYISfMMD8_84CET-306" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-303" target="nHDZixYISfMMD8_84CET-305">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-311" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHDZixYISfMMD8_84CET-306">
+        <mxCell id="nHDZixYISfMMD8_84CET-311" value="非管理员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHDZixYISfMMD8_84CET-306">
           <mxGeometry x="0.0735" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -575,6 +575,9 @@
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-309" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="17.25" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-312" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="65" y="2028" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
