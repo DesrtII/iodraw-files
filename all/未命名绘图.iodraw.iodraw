@@ -104,10 +104,10 @@
           <mxGeometry x="310.5" y="900" width="239" height="66" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-35" value="选择文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="1222" width="127" height="49" as="geometry" />
+          <mxGeometry x="365.5" y="990" width="127" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-36" value="校验文件扩展名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="482" y="1321" width="162" height="162" as="geometry" />
+          <mxGeometry x="348" y="1060" width="162" height="162" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-37" value="返回错误不支持的格式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="323" y="1628" width="223" height="49" as="geometry" />
