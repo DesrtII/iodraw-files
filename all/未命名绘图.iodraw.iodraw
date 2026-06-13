@@ -332,7 +332,7 @@
           <mxGeometry x="529.5" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-190" value="返回错误 标题和内容不能为空" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700.5" y="880" width="120" height="109.5" as="geometry" />
+          <mxGeometry x="663.5" y="875.25" width="99.5" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-192" target="nHDZixYISfMMD8_84CET-194">
           <mxGeometry relative="1" as="geometry" />
@@ -356,7 +356,7 @@
           <mxGeometry x="529" y="1180" width="80.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-200" value="返回401 请先登录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="699" y="755" width="120" height="60" as="geometry" />
+          <mxGeometry x="706.5" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-202" value="未登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="758" width="60" height="30" as="geometry" />
