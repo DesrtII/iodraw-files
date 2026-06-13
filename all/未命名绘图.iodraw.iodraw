@@ -125,10 +125,10 @@
           <mxGeometry x="345.75" y="1140" width="166.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-39" value="返回错误文件过大" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="1140" width="193" height="49" as="geometry" />
+          <mxGeometry x="130" y="1140" width="193" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-40" value="UUID 生成随机文件名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="711" y="1821" width="212" height="49" as="geometry" />
+          <mxGeometry x="308" y="1240" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-41" value="保存文件到 uploads 目录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="697" y="1920" width="239" height="49" as="geometry" />
