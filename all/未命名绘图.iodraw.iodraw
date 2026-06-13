@@ -249,12 +249,6 @@
             <mxPoint x="305.24" y="759" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nHDZixYISfMMD8_84CET-71">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="305.24" y="800" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-75" target="nHDZixYISfMMD8_84CET-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -266,8 +260,11 @@
         <mxCell id="nHDZixYISfMMD8_84CET-87" value="下载成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="245.24" y="1090" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-101" target="nHDZixYISfMMD8_84CET-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-101" value="点击下载按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="247.11" y="770" width="115.26" height="30" as="geometry" />
+          <mxGeometry x="247.61" y="760" width="115.26" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
