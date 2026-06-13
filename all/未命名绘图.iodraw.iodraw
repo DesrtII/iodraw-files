@@ -337,14 +337,14 @@
         <mxCell id="nHDZixYISfMMD8_84CET-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-192" target="nHDZixYISfMMD8_84CET-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-192" value="创建Question对象" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nHDZixYISfMMD8_84CET-192" value="创建Question对象" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510.25" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-194" target="nHDZixYISfMMD8_84CET-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-194" value="标题逗号拼接储存到tags字段" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510.25" y="1030" width="120" height="60" as="geometry" />
+        <mxCell id="nHDZixYISfMMD8_84CET-194" value="标题逗号拼接储存到tags字段" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="509.5" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-196" target="nHDZixYISfMMD8_84CET-198">
           <mxGeometry relative="1" as="geometry" />
@@ -360,9 +360,6 @@
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-202" value="未登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="758" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-192" target="nHDZixYISfMMD8_84CET-192">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
