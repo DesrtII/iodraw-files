@@ -91,6 +91,9 @@
         <mxCell id="nHDZixYISfMMD8_84CET-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-32" target="nHDZixYISfMMD8_84CET-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-32" target="nHDZixYISfMMD8_84CET-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-32" value="检查用户是否登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365.5" y="830" width="129" height="46" as="geometry" />
         </mxCell>
@@ -98,7 +101,7 @@
           <mxGeometry x="250" y="830" width="103" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-34" value="填写标题 / 描述 / 分类 / 标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310.5" y="890" width="239" height="66" as="geometry" />
+          <mxGeometry x="310.5" y="900" width="239" height="66" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-35" value="选择文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="1222" width="127" height="49" as="geometry" />
