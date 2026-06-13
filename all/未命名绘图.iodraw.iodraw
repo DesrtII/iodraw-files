@@ -128,13 +128,13 @@
           <mxGeometry x="130" y="1140" width="193" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-40" value="UUID 生成随机文件名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="308" y="1240" width="212" height="49" as="geometry" />
+          <mxGeometry x="323" y="1210" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-41" value="保存文件到 uploads 目录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="697" y="1920" width="239" height="49" as="geometry" />
+          <mxGeometry x="330" y="1330" width="239" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-42" value="创建 Resource 数据库记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="693" y="2019" width="248" height="49" as="geometry" />
+          <mxGeometry x="310.5" y="1630" width="248" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-43" value="上传成功" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="773" y="2117" width="88" height="34" as="geometry" />
@@ -152,13 +152,6 @@
         <mxCell id="nHDZixYISfMMD8_84CET-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-35" target="nHDZixYISfMMD8_84CET-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-52" value="大小合法" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-38" target="nHDZixYISfMMD8_84CET-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="817" y="1785" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-40" target="nHDZixYISfMMD8_84CET-41">
