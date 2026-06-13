@@ -209,7 +209,7 @@
           <mxGeometry x="22" y="889.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-75" value="download_count 自增 + 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="127" y="950" width="241" height="49" as="geometry" />
+          <mxGeometry x="200" y="970" width="168" height="29" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-76" value="send_from_directory 返回文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="397" y="1558" width="210" height="66" as="geometry" />
@@ -223,13 +223,6 @@
         <mxCell id="nHDZixYISfMMD8_84CET-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-70" target="nHDZixYISfMMD8_84CET-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-83" value="文件存在" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-73" target="nHDZixYISfMMD8_84CET-75">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="502" y="1423" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-75" target="nHDZixYISfMMD8_84CET-76">
