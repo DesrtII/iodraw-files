@@ -84,6 +84,117 @@
         <mxCell id="nHDZixYISfMMD8_84CET-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-22" target="nHDZixYISfMMD8_84CET-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-31" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="401" y="770" width="58" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-32" value="检查用户是否登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="854" width="179" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-33" value="返回 401 请先登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="1115" width="194" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-34" value="填写标题 / 描述 / 分类 / 标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="444" y="1106" width="239" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-35" value="选择文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="1222" width="127" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-36" value="校验文件扩展名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="482" y="1321" width="162" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-37" value="返回错误不支持的格式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="323" y="1628" width="223" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-38" value="校验文件大小≤50MB" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="595" y="1556" width="193" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-39" value="返回错误文件过大" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="472" y="1821" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-40" value="UUID 生成随机文件名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="711" y="1821" width="212" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-41" value="保存文件到 uploads 目录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="697" y="1920" width="239" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-42" value="创建 Resource 数据库记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="693" y="2019" width="248" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-43" value="上传成功" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="773" y="2117" width="88" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-31" target="nHDZixYISfMMD8_84CET-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-45" value="未登录" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-32" target="nHDZixYISfMMD8_84CET-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="297" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-46" value="已登录" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-32" target="nHDZixYISfMMD8_84CET-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-34" target="nHDZixYISfMMD8_84CET-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-35" target="nHDZixYISfMMD8_84CET-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-49" value="格式非法" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-36" target="nHDZixYISfMMD8_84CET-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="434" y="1519" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-50" value="格式合法" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-36" target="nHDZixYISfMMD8_84CET-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="692" y="1519" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-51" value="超过 50MB" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-38" target="nHDZixYISfMMD8_84CET-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="1785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-52" value="大小合法" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-38" target="nHDZixYISfMMD8_84CET-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="817" y="1785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-40" target="nHDZixYISfMMD8_84CET-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-41" target="nHDZixYISfMMD8_84CET-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-42" target="nHDZixYISfMMD8_84CET-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
