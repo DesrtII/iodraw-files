@@ -121,10 +121,15 @@
           <mxGeometry x="519" y="250" width="162" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-37" value="返回错误不支持的格式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="255" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-38" target="nHDZixYISfMMD8_84CET-39">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-97" value="文件大小过大" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHDZixYISfMMD8_84CET-65">
+          <mxGeometry x="0.0744" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-38" target="nHDZixYISfMMD8_84CET-40">
           <mxGeometry relative="1" as="geometry" />
@@ -133,7 +138,7 @@
           <mxGeometry x="516.75" y="320" width="166.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-39" value="返回错误文件过大" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="325" width="140" height="40" as="geometry" />
+          <mxGeometry x="310" y="325" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-40" value="UUID 生成随机文件名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="493" y="390" width="212" height="49" as="geometry" />
