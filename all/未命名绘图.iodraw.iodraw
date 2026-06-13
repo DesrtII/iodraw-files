@@ -404,7 +404,7 @@
         <mxCell id="nHDZixYISfMMD8_84CET-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-224" target="nHDZixYISfMMD8_84CET-226">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-243" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHDZixYISfMMD8_84CET-232">
+        <mxCell id="nHDZixYISfMMD8_84CET-243" value="未点赞（添加）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHDZixYISfMMD8_84CET-232">
           <mxGeometry x="0.5051" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
