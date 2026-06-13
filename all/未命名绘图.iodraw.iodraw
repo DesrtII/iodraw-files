@@ -366,7 +366,7 @@
         <mxCell id="nHDZixYISfMMD8_84CET-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-208" target="nHDZixYISfMMD8_84CET-218">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-208" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nHDZixYISfMMD8_84CET-208" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-211" target="nHDZixYISfMMD8_84CET-222">
@@ -411,7 +411,7 @@
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-243" value="未点赞（添加）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHDZixYISfMMD8_84CET-232">
           <mxGeometry x="0.5051" y="-1" relative="1" as="geometry">
-            <mxPoint x="43" as="offset" />
+            <mxPoint x="48" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-224" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
