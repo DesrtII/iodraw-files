@@ -323,6 +323,11 @@
         <mxCell id="nHDZixYISfMMD8_84CET-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-188" target="nHDZixYISfMMD8_84CET-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-204" value="非空" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHDZixYISfMMD8_84CET-193">
+          <mxGeometry x="-0.2935" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-188" value="校验内容" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560.5" y="919.5" width="80" height="80" as="geometry" />
         </mxCell>
