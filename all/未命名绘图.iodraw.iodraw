@@ -110,7 +110,7 @@
           <mxGeometry x="348" y="1060" width="162" height="162" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-37" value="返回错误不支持的格式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="323" y="1628" width="223" height="49" as="geometry" />
+          <mxGeometry x="110" y="1116.5" width="223" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-38" value="校验文件大小≤50MB" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="595" y="1556" width="193" height="193" as="geometry" />
@@ -143,13 +143,6 @@
         <mxCell id="nHDZixYISfMMD8_84CET-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-35" target="nHDZixYISfMMD8_84CET-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-49" value="格式非法" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-36" target="nHDZixYISfMMD8_84CET-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="434" y="1519" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-50" value="格式合法" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-36" target="nHDZixYISfMMD8_84CET-38">
