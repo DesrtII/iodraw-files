@@ -578,10 +578,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-307" value="实现CRUD操作" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="17.25" y="2030" width="120" height="60" as="geometry" />
+          <mxGeometry x="31.310000000000002" y="2040" width="92.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-309" value="操作成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="44.06" y="2110" width="67.25" height="30" as="geometry" />
+          <mxGeometry x="44.06" y="2090" width="67.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
