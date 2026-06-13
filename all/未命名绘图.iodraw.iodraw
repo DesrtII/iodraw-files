@@ -258,6 +258,9 @@
         <mxCell id="nHDZixYISfMMD8_84CET-86" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="186.5" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-87" value="下载成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="442.5" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
