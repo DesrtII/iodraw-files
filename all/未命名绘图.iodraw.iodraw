@@ -367,7 +367,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-208" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="1210" width="120" height="30" as="geometry" />
+          <mxGeometry x="200" y="1210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-211" target="nHDZixYISfMMD8_84CET-222">
           <mxGeometry relative="1" as="geometry" />
@@ -441,7 +441,7 @@
           <mxGeometry x="170" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-241" value="操作成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="1810" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
