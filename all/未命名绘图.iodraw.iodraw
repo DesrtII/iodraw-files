@@ -392,8 +392,14 @@
         <mxCell id="nHDZixYISfMMD8_84CET-219" value="返回401 请先登录" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="323.25" y="1278.75" width="106.75" height="27.5" as="geometry" />
         </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-225" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-222" target="nHDZixYISfMMD8_84CET-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-222" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="171.25" y="1500" width="120" height="60" as="geometry" />
+          <mxGeometry x="171.25" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHDZixYISfMMD8_84CET-224" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="191.25" y="1560" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
