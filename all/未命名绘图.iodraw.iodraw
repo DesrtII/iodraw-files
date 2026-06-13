@@ -113,13 +113,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-36" value="校验文件扩展名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="348" y="1060" width="162" height="162" as="geometry" />
+          <mxGeometry x="348" y="1060" width="162" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-37" value="返回错误不支持的格式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="1116.5" width="223" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-38" value="校验文件大小≤50MB" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="332.5" y="1240" width="193" height="193" as="geometry" />
+          <mxGeometry x="332.5" y="1240" width="193" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-39" value="返回错误文件过大" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="472" y="1821" width="189" height="49" as="geometry" />
