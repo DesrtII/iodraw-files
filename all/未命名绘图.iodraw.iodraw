@@ -98,7 +98,7 @@
           <mxGeometry x="250" y="830" width="103" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-34" value="填写标题 / 描述 / 分类 / 标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="444" y="1106" width="239" height="66" as="geometry" />
+          <mxGeometry x="310.5" y="890" width="239" height="66" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-35" value="选择文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="1222" width="127" height="49" as="geometry" />
@@ -130,13 +130,6 @@
         <mxCell id="nHDZixYISfMMD8_84CET-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-31" target="nHDZixYISfMMD8_84CET-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-46" value="已登录" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-32" target="nHDZixYISfMMD8_84CET-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="563" y="1070" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-34" target="nHDZixYISfMMD8_84CET-35">
