@@ -337,7 +337,7 @@
           <mxGeometry x="529.5" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-190" value="返回错误 标题和内容不能为空" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="663.5" y="875.25" width="99.5" height="49.5" as="geometry" />
+          <mxGeometry x="663.5" y="882.62" width="99.5" height="34.75" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-192" target="nHDZixYISfMMD8_84CET-194">
           <mxGeometry relative="1" as="geometry" />
