@@ -425,14 +425,14 @@
         <mxCell id="nHDZixYISfMMD8_84CET-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-226" target="nHDZixYISfMMD8_84CET-233">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-226" value="创建新点赞记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nHDZixYISfMMD8_84CET-226" value="创建新点赞记录" style="whiteSpace=wrap;html=1;rounded=0;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="251.17000000000002" y="1510" width="107.13" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-228" target="nHDZixYISfMMD8_84CET-233">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nHDZixYISfMMD8_84CET-228" value="删除点赞记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="96" y="1510" width="104.26" height="40" as="geometry" />
+        <mxCell id="nHDZixYISfMMD8_84CET-228" value="删除点赞记录" style="whiteSpace=wrap;html=1;rounded=0;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="96" y="1510" width="100" height="38.37" as="geometry" />
         </mxCell>
         <mxCell id="nHDZixYISfMMD8_84CET-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHDZixYISfMMD8_84CET-233" target="nHDZixYISfMMD8_84CET-241">
           <mxGeometry relative="1" as="geometry" />
