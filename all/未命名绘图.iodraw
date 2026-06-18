@@ -54,7 +54,7 @@
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-17" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1keSYt_eBj1_WdiTbXZZ-21" value="返回分析结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-21" value="前端储存token并返回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="360" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
