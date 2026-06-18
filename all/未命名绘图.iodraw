@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-3" value="后端验证用户名密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="160" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-4" target="1keSYt_eBj1_WdiTbXZZ-7">
           <mxGeometry relative="1" as="geometry">
@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-4" value="验证通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="70" y="210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-7" value="返回错误" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="265" width="80" height="30" as="geometry" />
@@ -49,13 +49,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-15" value="调用预测模型计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="340" width="120" height="30" as="geometry" />
+          <mxGeometry x="50" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-17" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-21" value="返回分析结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="390" width="100" height="30" as="geometry" />
+          <mxGeometry x="60" y="360" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
