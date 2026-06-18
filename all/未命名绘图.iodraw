@@ -43,7 +43,7 @@
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-17" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1keSYt_eBj1_WdiTbXZZ-21" value="前端储存token并返回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-21" value="填写学生学号、课程、成绩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="210" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
