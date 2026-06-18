@@ -10,31 +10,14 @@
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1keSYt_eBj1_WdiTbXZZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-1" target="1keSYt_eBj1_WdiTbXZZ-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-1" value="输入用户名和密码" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1keSYt_eBj1_WdiTbXZZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-2" target="1keSYt_eBj1_WdiTbXZZ-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-2" value="前端发送登录请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="110" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1keSYt_eBj1_WdiTbXZZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-3" target="1keSYt_eBj1_WdiTbXZZ-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="40" y="230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-3" value="后端验证用户名密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="160" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1keSYt_eBj1_WdiTbXZZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-4" target="1keSYt_eBj1_WdiTbXZZ-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="280.19047619047615" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1keSYt_eBj1_WdiTbXZZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-4" target="1keSYt_eBj1_WdiTbXZZ-15">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-4" value="验证通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="70" width="80" height="80" as="geometry" />
@@ -43,7 +26,7 @@
           <mxGeometry x="200" y="235" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-8" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-15" target="1keSYt_eBj1_WdiTbXZZ-21">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +35,7 @@
           <mxGeometry x="50" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-17" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-21" value="前端储存token并返回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="360" width="120" height="30" as="geometry" />
