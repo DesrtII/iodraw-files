@@ -10,8 +10,14 @@
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="10" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-1" target="1keSYt_eBj1_WdiTbXZZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-1" value="用户选择分析类型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-2" target="1keSYt_eBj1_WdiTbXZZ-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-2" value="后端查询成绩数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="110" width="120" height="30" as="geometry" />
