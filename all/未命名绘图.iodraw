@@ -76,6 +76,49 @@
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-39" value="逐行验证数据" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="205" y="260" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-42" value="学生" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=64.99996948242188;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="460" width="35" height="466" as="geometry" />
+        </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-43" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="460" width="150" height="466" as="geometry" />
+        </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-44" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="460" width="150" height="466" as="geometry" />
+        </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-45" value="点击查询按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-42" target="1keSYt_eBj1_WdiTbXZZ-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="214" y="567" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-46" value="GET /api/scores" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-43" target="1keSYt_eBj1_WdiTbXZZ-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="424" y="619" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-47" value="返回成绩数据 (JSON)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-44" target="1keSYt_eBj1_WdiTbXZZ-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="769" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-48" value="渲染成绩列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-43" target="1keSYt_eBj1_WdiTbXZZ-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="217" y="821" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-49" value="验证Token权限" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="639" width="150" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-50" value="查询数据库" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="688" width="150" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
