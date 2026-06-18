@@ -16,8 +16,16 @@
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-3" value="计算统计指标（GPA/通过率等）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-4" target="1keSYt_eBj1_WdiTbXZZ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="280.19047619047615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-4" value="需要预测？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="250.00047619047615" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
