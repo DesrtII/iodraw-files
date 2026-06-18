@@ -37,6 +37,9 @@
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-4" value="批量？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="110" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-7" target="1keSYt_eBj1_WdiTbXZZ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-7" value="返回错误" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="135" width="80" height="30" as="geometry" />
         </mxCell>
@@ -60,6 +63,9 @@
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-34" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="410" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-37" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
