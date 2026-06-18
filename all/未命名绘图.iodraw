@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-4" value="验证通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="210" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="70" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-7" value="返回错误" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="235" width="80" height="30" as="geometry" />
