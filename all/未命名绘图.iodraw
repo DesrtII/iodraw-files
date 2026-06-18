@@ -68,10 +68,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-37" value="解析Excel数据" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="190" width="90" height="30" as="geometry" />
+          <mxGeometry x="205" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1keSYt_eBj1_WdiTbXZZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1keSYt_eBj1_WdiTbXZZ-39" target="1keSYt_eBj1_WdiTbXZZ-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1keSYt_eBj1_WdiTbXZZ-39" value="逐行验证数据" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="250" width="90" height="30" as="geometry" />
+          <mxGeometry x="205" y="260" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
